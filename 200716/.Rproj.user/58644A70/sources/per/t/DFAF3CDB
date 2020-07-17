@@ -1,0 +1,32 @@
+{
+    "id": "DFAF3CDB",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1594883314546.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "hrank",
+        "caption": "hrank",
+        "totalObservations": 234,
+        "displayedObservations": 234,
+        "variables": 14,
+        "cacheKey": "60BE31FC",
+        "object": "hrank",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=hrank&cache_key=60BE31FC&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314885436535042924,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1594883314546,
+    "read_only": false,
+    "read_only_alternatives": []
+}

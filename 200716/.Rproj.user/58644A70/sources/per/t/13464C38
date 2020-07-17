@@ -1,0 +1,32 @@
+{
+    "id": "13464C38",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1594885564133.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "mpg2",
+        "caption": "mpg2",
+        "totalObservations": 234,
+        "displayedObservations": 234,
+        "variables": 14,
+        "cacheKey": "990C6B68",
+        "object": "mpg2",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=mpg2&cache_key=990C6B68&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7598248918029331570,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1594885564133,
+    "read_only": false,
+    "read_only_alternatives": []
+}
